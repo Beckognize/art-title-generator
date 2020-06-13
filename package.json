@@ -1,0 +1,27 @@
+{
+  "name": "art-title-generator",
+  "version": "1.0.0",
+  "description": "Generates titles for art work.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Beckognize/art-title-generator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Beckognize/art-title-generator/issues"
+  },
+  "homepage": "https://github.com/Beckognize/art-title-generator#readme",
+  "dependencies": {
+    "next": "^9.4.4",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
